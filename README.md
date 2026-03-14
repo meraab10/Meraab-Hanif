@@ -1,40 +1,38 @@
 # Hi, I'm Meraab Hanif 👋
-### Data Analyst | PowerBI Dashboard Developer | Decision-Focused Analytics Specialist
+### **Power BI Dashboard Developer | Decision-Focused Analytics Specialist**
 
-<p align="left">
- <img src="https://img.shields.io/badge/Focus-Decision--Focused%20Analytics-0a2342?style=for-the-badge&logoColor=white" />
- <img src="https://img.shields.io/badge/Location-Sialkot,%20Pakistan-0a2342?style=for-the-badge&logoColor=white" />
-</p>
-
----
-
-## 🚀 About Me
-I am a **Data Analyst** with a background in **Physics**, which gives me a unique, first-principles approach to solving complex data problems. I specialize in building high-impact **Power BI dashboards** and robust data models that drive strategic business growth.
-
- - 📊 **Expertise:** Power BI (DAX/M), Advanced Excel, SQL, and Market Research.
-- 🎓 **Education:** B.S. in Physics from GC Women University, Sialkot.
-- 💡 **Passion:** Turning "messy data" into clear, actionable stories.
-
----
-
-## 🛠️ My Data Stack
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Visualization** | **Power BI**, Excel Dashboards, automated Reports |
-| **Analysis** | **DAX**, Power Query (M), SQL |
-| **Strategy** | Market Research, KPI Development, Decision Frameworks |
-| **Background** | Computational Physics, IT Education |
-
----
+I bridge the gap between complex data and strategic action. I specialize in building end-to-end **Power BI solutions**, from robust DAX modeling and Power Query automation to high-fidelity, decision-ready dashboards.
 
  
 
----
+ 
+- **🎯 Current Focus:** Developing advanced **Power BI Dashboards** & Financial KPI tracking.
+- **💎 Core Value:** Turning "messy data" into **Decision-Focused Analytics** for stakeholders.
+- **🛠️ Top Skills:** Power BI (Expert DAX/M), Advanced Excel, SQL, Market Research.
+ 
+ 
 
-## 🌐 Connect With Me
+### **🛡️ Technical Skill Set**
+| **Domain** | **Tools & Technologies** |
+| :--- | :--- |
+| **Data Visualization** | **Power BI (Desktop/Service)**, Automated Reports, Excel Dashboards |
+| **Data Engineering** | **DAX (Advanced)**, Power Query (M), SQL Server, Data Modeling |
+| **Analytical Methods** | KPI Benchmarking, Trend Analysis, Market Research, SEM |
+| **Reporting** | Automated Row-Level Security (RLS), Data Gateways, App Publishing |
+ 
+
+### **📊 My GitHub Activity**
 <p align="left">
-<a href="https://www.linkedin.com/in/meraabhanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Meraab Hanif" height="30" width="40" /></a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=meraab10&show_icons=true&theme=tokyonight&title_color=0a2342&icon_color=0a2342&text_color=333&bg_color=ffffff&hide_border=true" height="180em" />
+ 
+
+ 
+### **🤝 Let's Connect**
+I am always open to discussing data architecture, dashboard optimization, or potential collaborations.
+
+- **LinkedIn:** [linkedin.com/in/MeraabHanif](https://www.linkedin.com/in/meraabhanif)
+ 
+- **Email:**   (meraabhanif@yahoo.com)
 
 ---
-*“In a world of data, be the insight.”*
+*“In a world of data, be the insight.”*the insight.”*
