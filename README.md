@@ -27,11 +27,7 @@ I am a **Data Analyst** with a background in **Physics**, which gives me a uniqu
 
 ---
 
-## 📈 My GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MeraabHanif&show_icons=true&theme=tokyonight&title_color=0a2342&icon_color=0a2342&text_color=333&bg_color=ffffff&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeraabHanif&layout=compact&theme=tokyonight&title_color=0a2342&text_color=333&bg_color=ffffff&hide_border=true" />
-</p>
+ 
 
 ---
 
